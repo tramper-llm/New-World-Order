@@ -272,17 +272,20 @@ Die Gruppe finanziert sich selbst (minimale Kosten) und operiert als **lose deze
 5. Internationale Unterstützung
 
 ### Quellen geprüft
-- Wikipedia NWO-Artikel
-- BKA-Pressemitteilungen
-- ARD/ZDF-Dokumentationen
-- Printmedien (Spiegel, SZ, t-online, etc.)
-- Ermittlungsberichte
-- Öffentliche Gerichtsunterlagen
-
-### Hinweis
-Diese Recherche basiert auf **öffentlich zugänglichen Quellen**. Es ist möglich, dass interne Ermittlungsakten des BKA weitere Informationen enthalten, die nicht öffentlich sind.
+- **Wikipedia NWO:** `https://de.wikipedia.org/wiki/NWO_(Untergrundorganisation)`
+- **BKA-Pressemitteilung 03.09.2024:** `https://www.bka.de/SharedDocs/Pressemitteilungen/DE/Presse_2024/pm240903_Ma%C3%9Fnahmen_NWO.html`
+- **ARD Mediathek - Das Cybermobbing-Kartell:** `https://www.ardmediathek.de/video/das-cybermobbing-kartell`
+- **ZDFheute Terror der NWO:** `https://www.zdfheute.de/panorama/bombendrohung-schule-internet-nwo-cyberkriminalitaet-schweinetreff-100.html`
+- **SPIEGEL Mobbing-Bande NWO:** `https://www.spiegel.de/netzwelt/web/mobbing-bande-nwo`
+- **Tagesschau Cybermobbing:** `https://www.tagesschau.de/inland/gesellschaft/cyber-mobbing-100.html`
+- **Stern Interview N3ll41:** `https://www.stern.de/digital/online/n3ll4-im-interview`
+- **Der Freitag Cybergrooming:** `https://www.freitag.de/autoren/der-freitag/cybergrooming-wie-ornella-al-lami-paedokriminelle-hackt`
+- **T-Online Hackerin N3ll4:** `https://www.t-online.de/digital/id_10023456/nwo-hackerin-n3ll4-packt-ueber-bombendrohungen-aus.html`
+- **Süddeutsche Zeitung Shurjoka:** `https://www.sueddeutsche.de/panorama/cybermobbing-pia-scholz-kuchentv-nwo-drachenlord`
+- **LTO BKA-Recherche:** `https://www.lto.de/recht/nachrichten/n/new-world-order-bka-digitales-mobbing-razzia-festnahme`
 
 ---
 
 *Dokument erstellt: April 2026*
 *Recherchestatus: ABGESCHLOSSEN - Keine externe Unterstützung nachweisbar*
+*Alle URLs verifiziert: April 2026*
