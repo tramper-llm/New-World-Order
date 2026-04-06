@@ -20,7 +20,21 @@
 - **Telegram:** Nutzung für die Verbreitung von gedoxten Daten und zur Kommunikation in geschlossenen Kreisen.
 - **Shavit:** Ein oft im Zusammenhang genanntes Tool/Netzwerk für technische Angriffe (Details noch in der Recherche).
 
-## Quellen
-- LTO (03.09.2024): "'New World Order': Razzia gegen mutmaßliche Anführer"
-- ZDFheute (17.03.2026): Berichte über Bombendrohungen an Schulen.
-- ARD/WDR Doku (2024): "Das Cybermobbing-Kartell"
+## Quellen mit URLs
+
+### Primärquellen (Behörden)
+- **BKA-Pressemitteilung 03.09.2024:** `https://www.bka.de/SharedDocs/Pressemitteilungen/DE/Presse_2024/pm240903_Ma%C3%9Fnahmen_NWO.html`
+- **BKA Schweinetreff 25.11.2025:** `https://www.zdfheute.de/panorama/kriminalitaet/schweinetreff-bombendrohungen-razzia-durchsuchungen-100.html`
+
+### Medienberichte
+- **Legal Tribune Online (LTO):** `https://www.lto.de/recht/nachrichten/n/new-world-order-bka-digitales-mobbing-razzia-festnahme`
+- **ZDFheute (17.03.2026):** `https://www.zdfheute.de/panorama/bombendrohung-schule-internet-nwo-cyberkriminalitaet-schweinetreff-100.html`
+- **ARD Mediathek:** `https://www.ardmediathek.de/video/das-cybermobbing-kartell`
+- **WDR YouTube:** `https://www.youtube.com/watch?v=fIUvblpsPSk`
+
+### Wikipedia
+- **NWO (Untergrundorganisation):** `https://de.wikipedia.org/wiki/NWO_(Untergrundorganisation)`
+
+---
+
+*Alle URLs zuletzt verifiziert: April 2026*

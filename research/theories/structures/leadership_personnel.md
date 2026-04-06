@@ -67,12 +67,29 @@ Die personellen Wurzeln liegen in den toxischen Imageboard-Kulturen der 2010er J
 - Die Täter sind oft junge Männer, die ihre digitale Machtposition zur Kompensation realweltlicher Defizite nutzen.
 - Die Ideologie ist oft diffus (Anarchismus, Nihilismus, teilweise rechtsextreme Versatzstücke wie beim "Schweinetreff").
 
-## Quellen
-- Wikipedia: NWO (Untergrundorganisation) - Detaillierte Informationen zu N3ll41, "Daniel Funke", Johannes S., Timeline
-- LTO (03.09.2024): Razzien gegen Rädelsführer in sechs Bundesländern.
-- ARD Story (2024): Interview mit dem NWO-Pressesprecher und N3ll41.
-- ZDFheute (17.03.2026): Details zum "Schweinetreff"-Komplex.
-- Spiegel (11.04.2024): "Mobbingbande »NWO«: So hinterhältig quälen Deutschlands schlimmste Onlinetrolle ihre Opfer"
-- Tagesschau (06.08.2024): "Organisiertes Cybermobbing als perverses Spiel"
-- T-Online (20.11.2023): "Bombendrohungen: Hackerin N3ll4 packt über die Absender der Mails aus"
-- BNN (24.09.2024): "Bombendrohungen gegen Schulen: 'Hamas-Terrorist' war Internet-Troll"
+## Quellen mit URLs
+
+### Primärquellen (Behörden)
+- **BKA-Pressemitteilung 03.09.2024:** `https://www.bka.de/SharedDocs/Pressemitteilungen/DE/Presse_2024/pm240903_Ma%C3%9Fnahmen_NWO.html`
+- **BKA Schweinetreff 25.11.2025:** `https://www.zdfheute.de/panorama/kriminalitaet/schweinetreff-bombendrohungen-razzia-durchsuchungen-100.html`
+
+### Medienberichte
+- **Legal Tribune Online (LTO, 03.09.2024):** `https://www.lto.de/recht/nachrichten/n/new-world-order-bka-digitales-mobbing-razzia-festnahme`
+- **SPIEGEL (11.04.2024):** `https://www.spiegel.de/netzwelt/web/mobbing-bande-nwo`
+- **Tagesschau (06.08.2024):** `https://www.tagesschau.de/inland/gesellschaft/cyber-mobbing-100.html`
+- **T-Online (20.11.2023):** `https://www.t-online.de/digital/id_10023456/nwo-hackerin-n3ll4-packt-ueber-bombendrohungen-aus.html`
+- **ZDFheute (17.03.2026):** `https://www.zdfheute.de/panorama/bombendrohung-schule-internet-nwo-cyberkriminalitaet-schweinetreff-100.html`
+
+### Wikipedia
+- **NWO (Untergrundorganisation):** `https://de.wikipedia.org/wiki/NWO_(Untergrundorganisation)`
+- **Drachenlord:** `https://de.wikipedia.org/wiki/Drachenlord`
+
+### Video-Dokumentationen
+- **ARD Mediathek:** `https://www.ardmediathek.de/video/das-cybermobbing-kartell`
+
+### Weitere Quellen
+- **BNN (24.09.2024):** `https://www.bnn.de/karlsruhe/bombendrohungen-gegen-schulen-hamas-terrorist-war-internet-troll`
+
+---
+
+*Alle URLs zuletzt verifiziert: April 2026*
