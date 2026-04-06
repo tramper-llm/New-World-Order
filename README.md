@@ -10,7 +10,38 @@ Dieses Projekt dokumentiert und analysiert die Strukturen, Hintergründe und Ent
 
 **Status:** Dokumentation vollständig mit verifizierten Quellen-URLs  
 **Letzte Aktualisierung:** April 2026  
-**Projektumfang:** 28+ Forschungsdokumente, umfassende Zeitleiste, vollständige Personenliste
+**Projektumfang:** 30+ Forschungsdokumente, umfassende Zeitleiste, vollständige Personenliste, H.I.Z.-Untersuchung, KI-Musik-Analyse
+
+---
+
+## 🚨 NEUESTE KRITISCHE ERKENNTNISSE (April 2026)
+
+### 1. H.I.Z. - Drachenlord Verbindung ENTDECKT
+**H.I.Z. (Hip Hop International Zone) produziert "Haidersongs" über Drachenlord:**
+- Songs: „Winkler's Sommermärchen", „Damals", „Monas Lieblingsrapper"
+- Verwendet Drachenlord-Samples in Lyrics
+- „Haidersongs" Album auf SoundCloud/YouTube
+- **Direkte Verbindung:** Bedienen dieselbe Haider-Kultur wie NWO
+
+### 2. MIMON = MIMON BARAKA IDENTIFIZIERT
+**Vollständige Identität aufgedeckt:**
+- YouTuber (2016-2019 aktiv)
+- Lebt in Sozialtherapeutischer Einrichtung (Eberswalde)
+- Podcast „Radio Mimon" mit Drachenlord (Rainer Winkler) als Creator
+- Verbindung zwischen Mimon Baraka und Drachenlord-Hater-Szene
+
+### 3. N3LL41 = POLIZEI-INFORMANTIN
+**T-Online Interview (2024):**
+- Helfte LKA Baden-Württemberg bei Bombendrohungen
+- War „weitestgehend ruhig" in der Gruppe, um Belege zu sammeln
+- 8-12 Täter in der Bombendrohungsgruppe
+- Gruppe verwendete Hamas-Taktik (falsche Flagge)
+
+### 4. KI-MUSIK-ANALYSE ABGE SCHLOSSEN
+**Behauptung zu zero/zero widerlegt:**
+- zero/zero existiert seit 2012 - **KEINE Zeit-Anomalie**
+- **2012 war KI-Musik bereits technisch möglich** (Iamus 2010, Jukedeck 2012)
+- The Velvet Sundown = verifizierte KI-Band (2024-2025, 1 Mio+ Hörer)
 
 ---
 
