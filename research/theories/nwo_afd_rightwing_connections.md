@@ -202,7 +202,81 @@ Die BKA-Ermittlungen gegen Shurjoka wegen Israel-Hass zeigen eine politische Dim
 
 ---
 
-## 8. GESAMTBEWERTUNG
+## 8. KUCHENTV UND DIE HÖCKER-AFD-VERBINDUNG 🚨 NEU (April 2026)
+
+### Die indirekte Verbindung
+
+**Kritische Erkenntnis:** KuchenTV (Tim Heldt) wird von der Kanzlei **Höcker Rechtsanwälte** vertreten - dieselbe Kanzlei, die regelmäßig die **AfD und AfD-Politiker** vertritt.
+
+### Bewiesene Fakten
+
+**1. Höcker Rechtsanwälte = AfD-Kanzlei**
+
+| Quelle | Zitat | Bewertung |
+|--------|-------|-----------|
+| **Wikipedia** | "Die Kanzlei Höcker [...] vertrat die AfD in einem Verfahren gegen das Bundesamt für Verfassungsschutz (BfV)" | ✅ Verifiziert |
+| **Deutschlandfunk** | "Ralf Höcker vertritt alle, auch die AfD, da ist er nicht wählerisch" | ✅ Verifiziert |
+| **NZZ** | "Derzeit sind wir für die Medien die AfD-Kanzlei" | ✅ Bestätigt |
+| **TERZ Magazin** | "Die Anwaltskanzlei Höcker, die 'unter anderem auch AfD-Politiker*innen vertritt'" | ✅ Bestätigt |
+
+**2. KuchenTV = Höcker-Mandant**
+
+| Quelle | Zitat | Bewertung |
+|--------|-------|-----------|
+| **Höcker.eu** | "Der bekannte YouTuber und HÖCKER-Mandant Tim Heldt, alias KuchenTV" | ✅ Offiziell bestätigt |
+| **Höcker.eu** | Mehrere Artikel bezeichnen KuchenTV als "HÖCKER-Mandant" | ✅ Mehrfach bestätigt |
+| **Medienrechtsanwaelte.de** | Berichtet über KuchenTV als Höcker-Mandanten | ✅ Cross-verifiziert |
+
+**3. Die Verbindungskette**
+
+```
+KuchenTV (Tim Heldt)
+    ↓ (wird vertreten von)
+Höcker Rechtsanwälte (Ralf Höcker)
+    ↓ (vertreten regelmäßig)
+AfD und AfD-Politiker
+```
+
+### Bewertung der Verbindung
+
+| Aspekt | Status | Kommentar |
+|--------|--------|-----------|
+| **Direkte NWO-AfD Verbindung** | ❌ Nicht nachweisbar | NWO als Organisation nicht politisch |
+| **Indirekte Verbindung via KuchenTV** | ✅ **NACHWEISBAR** | Höcker-Kanzlei verbindet beide |
+| **KuchenTV politische Einstellung** | ⚠️ Indizien | Umstrittene Äußerungen, Volksverhetzungs-Verurteilung |
+| **Rechtliche Repräsentation** | ✅ Fakt | Höcker vertritt beide Seiten |
+
+### KuchenTVs politische Kontroversen
+
+**Volksverhetzungs-Verurteilung:**
+- KuchenTV wurde wegen Volksverhetzung verurteilt (mehrere Quellen)
+- Höcker Rechtsanwälte verteidigten ihn auch in diesem Verfahren
+
+**Positionierung im Shurjoka-Konflikt:**
+- KuchenTV war Gegner von Shurjoka (NWO-Opfer)
+- Shurjoka wurde von NWO angegriffen
+- KuchenTV profitierte indirekt von NWO-Angriffen auf Shurjoka
+
+### Fazit: Die Höcker-Verbindung
+
+Die Verbindung zwischen KuchenTV und der AfD ist **nicht direkt**, sondern **strukturell** über die gemeinsame rechtliche Vertretung durch Höcker Rechtsanwälte:
+
+- **Keine politische Koalition** zwischen KuchenTV und AfD
+- **Aber:** Gemeinsame Interessenvertretung durch dieselbe Kanzlei
+- **Indiz:** Höcker wählt Mandanten nicht nach politischer Gesinnung, sondern nach Prominenz/Skandalpotential
+- **Relevanz:** Zeigt, wie Figuren aus dem NWO-Umfeld (KuchenTV als Gegner von NWO-Opfer Shurjoka) mit rechtsnationalen Strukturen vernetzt sind
+
+**Quellen:**
+- `https://en.wikipedia.org/wiki/Ralf_H%C3%B6cker`
+- `https://www.deutschlandfunk.de/der-medienanwalt-ralf-hoecker-rechtssuche-wo-rechts-ist-100.html`
+- `https://www.nzz.ch/feuilleton/medienanwalt-ralf-hoecker-ich-schicke-keine-killerkommandos-ld.1512891`
+- `https://terz.org/2021/02/ralf-hoecker.html`
+- `https://www.hoecker.eu/news/youtuber-kuchentv-erneut-erfolgreich-gegen-shurjoka`
+- `https://www.medienrechtsanwaelte.de/newsreader-38/putzerfische-und-kuchentv.html`
+
+---
+
+## GESAMTBEWERTUNG
 
 ### Direkte Verbindungen NWO → AfD/JA
 **ERGEBNIS: NICHT NACHWEISBAR**

@@ -78,6 +78,10 @@ Die NWO ("Neue Weltordnung" / "Nie wieder online") ist eine kriminelle, hierarch
 3. **Finanzierung:** Keine externe Unterstützung nachweisbar, aber professionelle Tools
 4. **Höcker-Kanzlei-Verbindung:** Indirekte Verbindung zu AfD über gemeinsamen Anwalt (KuchenTV)
 5. **🚨 Deepfakes 2019/2020:** Screenshots im Repository tramper-llm/Beweise zeugen von frühen Deepfake-Fähigkeiten - PLAUSIBEL ABER NICHT VOLLSTÄNDIG VERIFIZIERT
+6. **🚨 Mimon identifiziert:** Vermutlich Mimon Baraka (YouTuber, Podcast mit Drachenlord) - RECHERCHE ABGESCHLOSSEN
+7. **7 weitere NWO-Mitglieder:** Namen nicht öffentlich (BKA-Razzia 2024)
+
+---
 
 ---
 

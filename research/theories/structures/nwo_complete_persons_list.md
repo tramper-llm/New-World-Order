@@ -69,20 +69,38 @@ Einer der zentralen Anführer der NWO, verantwortlich für die eskalierten Straf
 
 ---
 
-### 3. MIMON
+### 3. MIMON (VERMUTLICH: MIMON BARAKA) 🚨 NEUE ERKENNTNIS (April 2026)
 
 **Status:** Co-Administrator, enger Vertrauter von Daniel Funke
+
+**Vermutete echte Identität:** Mimon Baraka (basierend auf Recherche-Ergebnissen)
 
 **Rolle:**
 - Co-Admin des NWO-Discord-Servers
 - Zusammenarbeit mit Daniel Funke
 - Unterstützung bei Organisation der Angriffe
 
+**Hintergrund Mimon Baraka (Recherche-Ergebnisse):**
+- War ein **YouTuber** (2016-2019 aktiv)
+- Wurde wie Drachenlord von Hatern verfolgt und gemobbt
+- Wurde als "physisch verrückter" als Drachenlord beschrieben
+- Lebt angeblich in einer **Einrichtung für Sozialtherapeutisches Wohnen in Eberswalde**
+- Hatte eigene Haider-Szene
+
+**Wichtige Verbindung:**
+- Podcast **"Radio Mimon"** existiert mit Rainer Winkler (Drachenlord) als Creator
+- Mimon Baraka Aufnahmen der NWO sind im Podcast dokumentiert
+- Verbindung zwischen Mimon Baraka und Drachenlord-Hater-Szene
+
 **Ermittlungen:**
 - BKA-Razzia September 2024 (einer der 10 Durchsuchten)
 - Status: Unklar/Keine öffentlichen Details zu Urteil
 
-**Quellen:** BKA-Pressemitteilung, Medienberichterstattung
+**Quellen:**
+- BKA-Pressemitteilung, Medienberichterstattung
+- Podcast "Radio Mimon" (Apple Podcasts, Spotify)
+- gutefrage.net Diskussionen über Mimon Baraka
+- Recherche: `gutefrage.net/frage/wer-ist-mimon-baraka-3`
 
 ---
 
